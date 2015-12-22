@@ -23,7 +23,7 @@
   <OpenSaveGameDataFolder>Otwórz folder z save'ami</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Nazwiska postaci w grze i w historiach, które chciałbyś zobaczyć:</NamesYouWantToSee>
   <ChangeStoryteller>Wybierz pisarza SI</ChangeStoryteller>
-  <AutosaveInterval>Auto zapisu co</AutosaveInterval>
+  <AutosaveInterval>Autozapis co</AutosaveInterval>
   <TemperatureMode>Ustawienia temperatury</TemperatureMode>
   
   <!-- Resolution -->
