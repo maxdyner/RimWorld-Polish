@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
@@ -65,7 +65,7 @@
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Wybierz swojego pisarza SI</ChooseAIStoryteller>
   <HowStorytellersWork>Pisarz SI tworzy zdarzenia takie jak atak piratów, zrzut surowców czy atak zwierząt. Jego wybór ma wpływ na twoją kolonię.</HowStorytellersWork>
-  <MustChooseDifficulty>Proszę wybrać poziom trudności.</MustChooseChallengeScale>
+  <MustChooseChallengeDifficulty>Proszę wybrać poziom trudności.</MustChooseChallengeScale>
   <Difficulty>Poziom trudności</Difficulty>
 
   <!--=========== Landing site select =========-->
@@ -88,8 +88,8 @@
   <Elevation>Wysokość</Elevation>
   <Fertility>Żyzność</Fertility>
   <AvgTemp>Średnia temp.</AvgTemp>
-  <AvgJanTemp>Średnia temp (Styczeń): {0}</AvgJanTemp>
-  <AvgJulTemp>Średnia temp (Lipiec): {0}</AvgJulTemp>
+  <AvgJanTemp>Średnia temp(Styczeń): {0}</AvgJanTemp>
+  <AvgJulTemp>Średnia temp(Lipiec): {0}</AvgJulTemp>
   <Rainfall>Opad deszczu</Rainfall>
   <HasCoast0>Północne wybrzeże</HasCoast0>
   <HasCoast1>Wschodnie wybrzeże</HasCoast1>
